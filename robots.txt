@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rlradius.id/sitemap.xml
